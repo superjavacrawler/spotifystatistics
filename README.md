@@ -4,6 +4,7 @@
 
 ### Демо версия: [SpotifyStats](https://javacrawler.lol/demo/spotifystats/)
 
+
 🚀 Для работы отредактируйте следующие данные в файлах `index.php` и `callback.php`:
 ```php
 $clientId = 'clientID';
